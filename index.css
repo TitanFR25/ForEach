@@ -43,3 +43,11 @@ img{
     background-color: white;
     border-style: none;
 }
+ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+li{
+    width: 10%;
+}
